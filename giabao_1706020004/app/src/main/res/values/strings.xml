@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">giabao_1706020004</string>
+    <string name="Main_UserName">Username</string>
+    <string name="Main_Pass">Password</string>
+    <string name="Main_Login">login</string>
+    <string name="name">name</string>
+    <string name="Password">Password</string>
+    <string name="detail_Subject">danh sách môn học</string>
+    <string name="ten">Họ và Tên</string>
+    <string name="nghanh">Nghành</string>
+    <string name="maSV">mã SV</string>
+    <string name="tinchi">Tín Chỉ</string>
+    <string name="tenmonhoc">Tên Môn Học</string>
+    <string name="maMH">Mã Môn Học</string>
+    <string name="giangvien">Giảng Viên</string>
+</resources>
